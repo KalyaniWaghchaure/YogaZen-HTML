@@ -2,6 +2,9 @@
 
 This is the pure HTML/CSS with vanilla JavaScript implementation of the Yoga & Wellness website based on the provided Figma design.
 
+## Live Demo
+https://kalyaniwaghchaure.github.io/YogaZen-HTML/
+
 ## Features
 
 - Fully responsive design with mobile-first approach
